@@ -103,12 +103,11 @@ p{
     display: flex ;
     width: 1239px;
     height: 226px;
-    margin-right: 2%;
     border-radius: 40px;
     border-color: white;
     background-color: white;
     filter: drop-shadow(0px 0px 0.75rem rgb(145, 140, 140));
-    margin-left: 2%;
+    margin-left: 3%;
     margin-top: 10%;
 }
 .mar{
