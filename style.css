@@ -137,3 +137,40 @@ p{
 #footc{
     color:rgb(187, 186, 186) ;
 }
+.subs{
+    font-size: 17px; font-weight: bold; text-transform:uppercase; background-color: #490e6f; color:#fff;" 
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    width: 50%;
+    padding: 14px 7px;
+}
+.br{
+    margin-top: 2%;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    width: 50%;
+    padding: 14px 7px;
+}
+.nflexi{
+    display: flex;
+    height: 650px;
+    width: 1200px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 6% ;
+    border:10px solid;
+    border-radius: 40px;
+    background-color: white;
+    border-color: white;
+    filter: drop-shadow(0px 0px 0.75rem rgb(145, 140, 140));
+    margin-top: 10%;
+    
+}
+.left{
+    margin-left: 10%;
+}
+.lefti{
+    margin-left: 8%;
+}
+.clrl{
+    color: #490e6f;
