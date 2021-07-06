@@ -138,7 +138,7 @@ p{
     color:rgb(187, 186, 186) ;
 }
 .subs{
-    font-size: 17px; font-weight: bold; text-transform:uppercase; background-color: #490e6f; color:#fff;" 
+    font-size: 17px; font-weight: bold; text-transform:uppercase; background-color: #490e6f; color:#fff;
     box-sizing: border-box;
     margin-bottom: 50px;
     width: 50%;
@@ -174,3 +174,4 @@ p{
 }
 .clrl{
     color: #490e6f;
+}
